@@ -12,4 +12,4 @@ slide 1 baybee
 
 [go next](./2.md)
 
-{% include open-embed.html %}
+<!-- {% include open-embed.html %} -->
