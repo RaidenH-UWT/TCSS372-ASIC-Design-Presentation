@@ -1,10 +1,10 @@
 ---
 layout: default
+title: ASIC Design  Overview
 next: 2
 audio: opening
 ---
 
-## ASIC Design Overview
 ### A 10-minute presentation by Raiden H, with attached audio recordings
 
 TODO:
