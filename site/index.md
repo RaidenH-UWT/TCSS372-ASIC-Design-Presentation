@@ -11,5 +11,3 @@ slide 1 baybee
 </audio>
 
 [go next](./2.md)
-
-<!-- {% include open-embed.html %} -->
