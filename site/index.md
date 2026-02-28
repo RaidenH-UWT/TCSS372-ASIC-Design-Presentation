@@ -1,5 +1,6 @@
 ---
 layout: default
+next: 2
 ---
 
 TODO:
@@ -10,5 +11,3 @@ TODO:
     <source src="./assets/test.mp3" type="audio/mp3">
     AUDIO DIDN'T WORK. AHHHHHHHHHH
 </audio>
-
-[go next](./2.md)
