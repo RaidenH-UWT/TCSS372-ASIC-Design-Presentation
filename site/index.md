@@ -1,11 +1,14 @@
 ---
 layout: default
-title: ASIC Design  Overview
-next: 2
+title: ASIC Design Overview
+next: intro
 audio: opening
 ---
 
 ### A 10-minute presentation by Raiden H, with attached audio recordings
+
+<!--
+This presentation is an overview of how ASICs are designed
 
 TODO:
 - Integrated circuit overview
@@ -26,3 +29,4 @@ Potential Sources:
 - https://en.wikipedia.org/wiki/Application-specific_integrated_circuit
 - https://en.wikipedia.org/wiki/Standard_cell
 - https://www.elprocus.com/application-specific-integrated-circuits/
+-->
