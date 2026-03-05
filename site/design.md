@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Design Process
-prev: considerations
-next: 
+prev: usage
+next: costs
 audio: design
 ---
 
@@ -19,6 +19,5 @@ Next, the description is written into an extensive description of *how* the proc
 performed, and written out in a lower-level language that closely mirrors the physical
 structure of the circuit, to make the final translation easier.
 
-Finally, according to the previous designs and specifications, the physical circuit is designed
-...
+Finally, according to the previous designs and specifications, the physical circuit is designed.
 -->

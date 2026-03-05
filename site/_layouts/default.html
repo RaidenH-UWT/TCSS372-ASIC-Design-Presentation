@@ -20,8 +20,12 @@
         </section>
     </main>
     <footer>
+        {% if page.prev %}
         <a href="./{{ page.prev }}" id="prev">Previous</a>
+        {% endif %}
+        {% if page.next %}
         <a href="./{{ page.next }}" id="next">Next</a>
+        {% endif %}
     </footer>
   </body>
 </html>

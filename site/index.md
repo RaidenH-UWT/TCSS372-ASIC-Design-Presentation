@@ -8,22 +8,30 @@ audio: opening
 ### A 10-minute presentation by Raiden H, with attached audio recordings
 
 <!--
-This presentation is an overview of how ASICs are designed
+This presentation is an overview of how ASICs are designed. On each of the pages you will find
+an audio player, which contains a voiceover of the slides including more detail on the items
+on each slide. At the bottom of each page, you may find links to the next and previous pages.
+At the end of the presentation, I have a bibliography where I have listed all the sources I
+have cited throughout the presentation.
 
 TODO:
-- Integrated circuit overview
-- ASIC Purpose
-    - Hardware for specific use, rather than general-purpose
-    - High efficiency compared to general-purpose
-- Examples of usage
-    - ASICs on motherboards
-    - ASICs in GPUs (e.g. ML focused chips, Nvidia vs AMD ASICs)
-    - System-on-Chip (SoC)
-    - Packet switching (NoC)
-    - Automotive computing
-    - Cybersec
-- Overview of different design types
-    - Largely vary in granularity of custom components (fully predefined > fully custom hardware logic circuits) and programmability
+- intro
+    - TODO: RERECORD WITH NEW SCRIPT
+    - introduce what an ASIC is and why it's different
+- usage
+    - example usecases
+- design
+    - overview of design process, by specificity
+- costs
+    - explain unit vs design costs
+    - economy of scale is how ASICs can be profitable
+    - little breakdown of costs
+    - TODO: rewrite that script, very awkward near the end of the 2nd paragraph
+- choices
+    - customizability (standard up to full custom)
+    - programmability (read/write/etc.)
+- bib
+    - works cited, allat
 
 Potential Sources:
 - https://en.wikipedia.org/wiki/Application-specific_integrated_circuit
