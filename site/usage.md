@@ -2,12 +2,12 @@
 layout: default
 title: Usage
 prev: intro
-next: considerations
+next: design
 audio: usage
 ---
 
 - System-on-a-Chip (SoC)
-- GPU machine learning (e.g. Trainium [2])
+- GPU machine learning (e.g. Trainium (AWS))
 - Automotive systems
 
 <!--

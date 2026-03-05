@@ -1,15 +1,21 @@
 ---
 layout: default
-title: Design Choices
-prev: costs
-next: 
+title: Design Options
+prev: design
+next: levels
 audio: choices
 ---
 
 - Customizability
     - Full custom
     - Semi custom
+    - Standard
 
+- Programmability
+    - Read-only (ROM)
+    - Write-once (PROM)
+    - Write-many (EEPROM)
+    
 <!--
 
 

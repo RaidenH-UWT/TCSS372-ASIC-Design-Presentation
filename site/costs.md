@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Costs
-prev: design
-next: choices
+prev: usage
+next: design
 audio: costs
 ---
 

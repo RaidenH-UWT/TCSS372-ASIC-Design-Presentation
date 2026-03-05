@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Introduction
-prev: index
+prev: toc
 next: usage
 audio: intro
 ---
 
-- ASIC: Application-specific integrated circuit [1]
+- ASIC: Application-specific integrated circuit
 - Integrated Circuit: aka microchip
 
 <!--

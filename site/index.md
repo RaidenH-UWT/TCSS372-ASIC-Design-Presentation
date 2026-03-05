@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ASIC Design Overview
-next: intro
+next: toc
 audio: opening
 ---
 
@@ -16,12 +16,12 @@ have cited throughout the presentation.
 
 TODO:
 - intro
-    - TODO: RERECORD WITH NEW SCRIPT
     - introduce what an ASIC is and why it's different
 - usage
     - example usecases
 - design
     - overview of design process, by specificity
+    - TODO: rewrite script from Barkalov
 - costs
     - explain unit vs design costs
     - economy of scale is how ASICs can be profitable
