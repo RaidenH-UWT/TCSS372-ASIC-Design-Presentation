@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Design Process
-prev: costs
-next: options
+prev: options
+next: levels
 audio: design
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bibliography
-prev: 
+prev: conclusion
 ---
 
 - [Trainium, AWS](https://docs.aws.amazon.com/dlami/latest/devguide/trainium.html)

@@ -21,7 +21,6 @@ TODO:
     - example usecases
 - design
     - overview of design process, by specificity
-    - TODO: rewrite script from Barkalov
 - costs
     - explain unit vs design costs
     - economy of scale is how ASICs can be profitable

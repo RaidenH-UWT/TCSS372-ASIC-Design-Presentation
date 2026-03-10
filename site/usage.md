@@ -2,7 +2,7 @@
 layout: default
 title: Usage
 prev: intro
-next: design
+next: costs
 audio: usage
 ---
 
