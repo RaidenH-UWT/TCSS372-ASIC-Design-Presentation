@@ -4,8 +4,8 @@ title: Table of Contents
 prev: index
 next: intro
 ---
-                                    <!-- 0:25 (25) -->
-- [Introduction](./intro.md)        <!-- 0:54 (54) -->
+                                    
+- [Introduction](./intro.md)        <!-- 0:54 (54)  + 0:25 (25) -->
 - [Usage](./usage.md)               <!-- 0:32 (32) -->
 - [Costs](./costs.md)               <!-- 1:24 (84) -->
 - [Design Options](./options.md)    <!-- 3:37 (217) -->
