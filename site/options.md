@@ -3,7 +3,7 @@ layout: default
 title: Design Options
 prev: costs
 next: design
-audio: choices
+audio: options
 ---
 
 - Customizability
