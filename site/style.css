@@ -36,6 +36,6 @@ main {
 
 #slideImage {
     max-height: 512px;
-    max-width: 512px;
+    max-width: 768px;
     float: right;
 }
