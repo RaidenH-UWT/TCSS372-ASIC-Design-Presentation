@@ -4,6 +4,8 @@ title: Costs
 prev: usage
 next: options
 audio: costs
+image: photolithography.jpg
+alt: Image of a machine for photolithography by a12ean of Wikimedia Commons, licensed under CC BY-SA 3.0
 ---
 
 - Unit cost

@@ -16,6 +16,9 @@
         </audio>
         {% endif %}
         <section id="content">
+          {% if page.image %}
+          <img id="slideImage" src="./assets/{{ page.image }}" alt="{{ page.alt }}">
+          {% endif %}
         {{ content }}
         </section>
     </main>

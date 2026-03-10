@@ -4,6 +4,8 @@ title: Design Process
 prev: options
 next: levels
 audio: design
+image: cad.gif
+alt: Image of a chip design in a CAD tool by Atropos235 of Wikimedia Commons, licensed under CC BY-SA 2.5
 ---
 
 - High-level

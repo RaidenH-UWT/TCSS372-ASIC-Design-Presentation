@@ -4,6 +4,8 @@ title: Design Options
 prev: costs
 next: design
 audio: options
+image: semi-custom.jpg
+alt: Image of a semi-custom ASIC design by Antoinebercovici of Wikimedia Commons, licensed under CC BY-SA 3.0
 ---
 
 - Customizability

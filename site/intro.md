@@ -4,6 +4,8 @@ title: Introduction
 prev: toc
 next: usage
 audio: intro
+image: ASIC.jpg
+alt: Image of ASIC chips by LiveWireInnovation of Wikimedia Commons, licensed under CC BY-SA 3.0
 ---
 
 - ASIC: Application-specific integrated circuit

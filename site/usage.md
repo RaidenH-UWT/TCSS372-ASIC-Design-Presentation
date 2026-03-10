@@ -4,6 +4,8 @@ title: Usage
 prev: intro
 next: costs
 audio: usage
+image: specific-asic.jpg
+alt: Image of a Cisco serial link transceiver ASIC, by Martijn Boer of Wikimedia Commons in the public domain
 ---
 
 - System-on-a-Chip (SoC)

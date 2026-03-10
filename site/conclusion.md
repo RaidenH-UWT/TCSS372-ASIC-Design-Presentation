@@ -4,6 +4,8 @@ title: Conclusion
 prev: levels
 next: bib
 audio: conclusion
+image: vlsi.jpg
+alt: Image of a VLSI die by Pauli Rautakorpi of Wikimedia Commons, licensed under CC BY 3.0
 ---
 
 - Economy of Scale

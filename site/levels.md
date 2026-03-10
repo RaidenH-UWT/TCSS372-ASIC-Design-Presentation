@@ -4,6 +4,8 @@ title: Hardware Levels
 prev: options
 next: conclusion
 audio: levels
+image: levels.png
+alt: Diagram of the hardware levels from Barkalov, p. 26
 ---
 
 - Hardware levels (Barkalov, p. 25)

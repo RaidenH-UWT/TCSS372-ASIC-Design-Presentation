@@ -11,7 +11,7 @@ main {
 }
 
 #content {
-
+    min-height: 512px;
 }
 
 #title {
@@ -32,4 +32,10 @@ main {
 
 #next {
     right: 10%;
+}
+
+#slideImage {
+    max-height: 512px;
+    max-width: 512px;
+    float: right;
 }
